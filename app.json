@@ -7,8 +7,8 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/aishik2005/MirrorX_Heroku",
-    "website": "https://github.com/aishik2005/MirrorX_Heroku",
+    "repository": "https://github.com/mtokdargremoary/MirrorX",
+    "website": "https://github.com/mtokdargremoary/MirrorX",
     "stack": "container",
     "env": {
       "ENV": {
